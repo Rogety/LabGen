@@ -7,5 +7,5 @@
 
 執行 : 
 
-python ./label_parsor.py
+python ./label_parsor.py 
 python ./mul_lab.py
